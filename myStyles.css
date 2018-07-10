@@ -1,0 +1,76 @@
+/*Webpage stylesheet*/
+
+body{
+  background-color: #c9ffcb;
+}
+
+h1{
+  color: #115790;
+  font-size: 60px;
+  font-family: 'Knewave', cursive;
+  text-align: center;
+}
+
+h3{
+  color: #750084;
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+h4{
+  color: #331163;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+p{
+  color: black;
+  font-size: 25px;
+  font-family: 'Dancing Script', cursive;
+}
+
+a{
+  color: black;
+  font-size: 14px;
+  font-family: cursive;
+}
+
+/*
+.green{
+  color: green;
+}
+*/
+
+#img{
+  width: 50%;
+  height: 50%;
+  float: right;
+  margin-left: 5px;
+  margin-bottom: 3px;
+}
+
+img{
+  width:30x;
+  height:30px;
+}
+
+#IGButton {
+  margin-left: 47%;
+  display: inline;
+}
+
+#FBButton {
+  display: inline;
+}
+
+/*nav bar*/
+/*
+ul{
+  list-style-type: none;
+}
+
+li{
+  display: inline;
+  margin-right: 20px;
+}
+*/
